@@ -1,4 +1,5 @@
-# news_conn_keywords
+# 这个对应电脑上文件connect_keywords！
+# 直接修改相应文件即可。
 匹配个股：
 # 1、从数据库表中读取想要的内容：
 sql_saved = "select id, content from news_conn_risk"
